@@ -4,6 +4,7 @@ output:
   html_document:
     toc: true
     toc_float: true
+    code_folding: hide
 
 ---
 
@@ -41,3 +42,30 @@ Here's a puptato:
 [About me](about.html)
 
 And more!
+
+
+
+## Quarterly Results {.tabset}
+
+### By Product
+
+This is tab number one!
+
+### By Region
+
+This is tab number two!
+
+## This is a new section again!
+
+
+
+
+
+
+
+
+
+
+
+
+
